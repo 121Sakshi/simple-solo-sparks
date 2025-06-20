@@ -45,17 +45,17 @@ root/
 🔧 Installation
 
 1. Clone the repo
-git clone https://github.com/121Sakshi/simple-solo-sparks.git
+https://github.com/121Sakshi/simple-solo-sparks
 cd simple-solo-sparks
 
-2. Setup backend
+3. Setup backend
 bash
 Copy code
 cd server
 npm install
 npm run dev
 
-3. Setup frontend
+4. Setup frontend
 bash
 Copy code
 cd client
